@@ -10,8 +10,8 @@ Documents the schema used for each QA pair in `qa_pairs_verified.json` (171 veri
 | `answer`  | string  | The gold answer text.  |
 | `gold_block_ids`  | list[string]  | Block ID(s) in the parsed paper JSON that contain the information needed to answer the question. Used as the retrieval ground truth for Recall@k / MRR.  |
 | `paper_ids`  | list[string]  | Paper(s) the question draws from. Length 1 for within-paper questions; only within-paper pairs exist in the final set (see note below).  |
-| `cross_paper`  | boolean  | Whether the question spans multiple papers. Always `false` in the final verified set — cross-paper multi-hop QA was discontinued (see [Methodology](methodology.md)).  |
-| `manual_transcription_flag`  | boolean  | `true` if any gold block comes from a hand-transcribed table (see [Corpus Notes](corpus_notes.md) for the six affected papers).  |
+| `cross_paper`  | boolean  | Whether the question spans multiple papers. Always `false` in the final verified set — cross-paper multi-hop QA was discontinued (see [Methodology](docs/methodology.md)).  |
+| `manual_transcription_flag`  | boolean  | `true` if any gold block comes from a hand-transcribed table (see [Corpus Notes](docs/corpus_notes.md) for the six affected papers).  |
 | `verified`  | boolean  | `true` once a pair has passed manual verification. Only verified pairs are included in the final benchmark.  |
 | `notes`  | string  | Free-text notes from verification (e.g., ambiguity flags, edge cases).  |
 
