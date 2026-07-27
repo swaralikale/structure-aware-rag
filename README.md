@@ -32,8 +32,7 @@ Papers and parsed output are stored in Google Drive (`/content/drive/MyDrive/RAG
 structure-aware-rag/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-├── LICENSE   
+├── .gitignore 
 │
 ├── data/
 │   ├── README.md
