@@ -149,4 +149,9 @@ See [Corpus notes](/docs/corpus_notes.md) for details on:
 
 
 ## License
-TBD
+© Swarali Kale, 2026. All rights reserved.
+
+This repository represents work that is shared solely for academic assessment and portfolio purposes. The code, outputs and inventory data may not be reproduced, reused or distributed without explicit written permission from the author.
+
+The source PDFs for this corpus were retrieved from arxiv.org for academic, non-commercial research purposes as part of a university term project, and copyright remains with the original authors in all cases. No paper's full text or figures are reproduced in this repository, the report, or any accompanying materials beyond what is necessary to document the QA pairs and evaluation methodology. Anyone wishing to access the original papers should retrieve them directly from arXiv or the publisher, using the links provided in the [Paper List](/data/README.md).
+
