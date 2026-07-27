@@ -39,7 +39,7 @@ This folder documents the source corpus used for this project. Raw PDFs and pars
 | 30  | **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**  | Zheng et al.  | https://doi.org/10.48550/arXiv.2310.06117  |
 
 ## Flagged Papers
-Six papers have one or more hand-transcribed tables (`manual_transcription_flag` in the parsed JSON and QA schema), due to extraction limitations documented in [docs/corpus_notes.md](#docs/corpus_notes.md):
+Six papers have one or more hand-transcribed tables (`manual_transcription_flag` in the parsed JSON and QA schema), due to extraction limitations documented in [Corpus notes](../docs/corpus_notes.md):
 - RGB (2309.01431)
 - Active RAG (2305.06983)
 - Chain-of-Note (2311.09210)
