@@ -1,0 +1,21 @@
+# Data (hosted on Google Drive, not versioned here)
+data/raw_pdfs/
+data/parsed_output/
+*.pdf
+
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# Colab
+*.Rhistory
