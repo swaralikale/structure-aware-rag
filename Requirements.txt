@@ -1,0 +1,5 @@
+PyMuPDF
+camelot-py[cv]
+pdfplumber
+google-genai
+python-dotenv
