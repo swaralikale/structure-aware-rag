@@ -47,7 +47,7 @@ Six papers have one or more hand-transcribed tables (`manual_transcription_flag`
 - RAG poisoning (2505.18543)
 - Gao et al. (2312.10997)
 
-One paper (RAPTOR) has appendix tables permanently excluded from QA generation — see `docs/corpus_notes.md`.
+One paper (RAPTOR) has appendix tables permanently excluded from QA generation — see [Corpus notes](../docs/corpus_notes.md).
 
 ## Extending the Corpus
 The parsing pipeline (`scripts/parsing/parse_papers.py`) is designed to generalize beyond this specific set of 30 papers — it is not hardcoded to them. In principle, other RAG papers, or papers from adjacent domains, can be dropped in and parsed the same way.
