@@ -7,7 +7,7 @@ Does structure-aware chunking — treating tables, figures, and captions as atom
 ~30 RAG research papers, parsed from PDF into a block-based JSON schema ({`paper_id`, `blocks`, `flagged_items`}) using PyMuPDF, Camelot (lattice/stream), and pdfplumber. PDFs are not versioned in this repo; see README for storage location.
 
 ## Benchmark Construction
-171 QA pairs were generated via the Gemini API and manually verified across four categories: `plain_factual` (40), `table_lookup` (60), `figure_caption` (40), and `multi_hop_comparative` (31). See [benchmark/qa_schema.md](#benchmark/qa_schema.md) for the full field-level schema.
+171 QA pairs were generated via the Gemini API and manually verified across four categories: `plain_factual` (40), `table_lookup` (60), `figure_caption` (40), and `multi_hop_comparative` (31). See [QA schema](../benchmark/qa_schema.md) for the full field-level schema.
 Cross-paper multi-hop questions were attempted but discontinued: at this corpus scale, coincidental term/label overlap between papers produced a near-total false-connection failure rate during verification. All final multi-hop pairs are within-paper.
 
 ## Chunking Strategies
@@ -29,7 +29,7 @@ Dual-axis evaluation was used:
 - The `multi_hop_comparative` non-significance was traced to a **joint top-5 coverage gap**: most multi-hop question pairs didn't have all their gold blocks present in the generation context, regardless of chunking strategy. This is a chunking-strategy-independent limitation of retrieval depth/context window, not a sign that structure-aware chunking fails on multi-hop questions specifically.
 
 ## Known Limitations
-See [docs/corpus_notes.md](#docs/corpus_notes.md) for corpus-level gaps: RAPTOR appendix tables excluded from QA generation, six papers with hand-transcribed tables, and Camelot's inability to reliably isolate borderless/side-by-side tables in dense two-column IEEE layouts.
+See [Corpus notes](corpus_notes.md) for corpus-level gaps: RAPTOR appendix tables excluded from QA generation, six papers with hand-transcribed tables, and Camelot's inability to reliably isolate borderless/side-by-side tables in dense two-column IEEE layouts.
 
 ## Reproducibility / Idempotency
 Given multi-day work across fresh Colab runtimes, the pipeline was built to be idempotent:
