@@ -1,1 +1,2814 @@
-
+[
+  {
+    "qa_id": "qa_b6ae448e",
+    "category": "plain_factual",
+    "question": "According to the passage, what effect does the prompting method have on models in QA-NA?",
+    "answer": "In QA-NA, the prompting method harms both the models' response quality and their robustness to counterfactual mistakes at the same time.",
+    "gold_block_ids": [
+      "2311.08147_p007_b0229"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_18e6babc",
+    "category": "plain_factual",
+    "question": "What is the first numerical value listed under Gemini Advanced in the text?",
+    "answer": "The first numerical value listed under Gemini Advanced is 67.1.",
+    "gold_block_ids": [
+      "2406.04744_p009_b0271"
+    ],
+    "paper_ids": [
+      "2406.04744"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1002abef",
+    "category": "plain_factual",
+    "question": "What specific approach does Flowise AI prioritize to allow users to deploy AI applications?",
+    "answer": "Flowise AI prioritizes a low-code approach, allowing users to deploy AI applications, including RAG, through a user-friendly drag-and-drop interface.",
+    "gold_block_ids": [
+      "2312.10997_p015_b0247"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e094826d",
+    "category": "plain_factual",
+    "question": "By how much did the straightforward RAG solution based on GPT-4 Turbo improve QA quality for tail entities?",
+    "answer": "The straightforward RAG solution based on GPT-4 Turbo improved the QA quality for tail entities by 6% (+6%).",
+    "gold_block_ids": [
+      "2406.04744_p009_b0272"
+    ],
+    "paper_ids": [
+      "2406.04744"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1ff199a5",
+    "category": "plain_factual",
+    "question": "What dataset is used as a testbed for long-form QA where the inputs are ambiguous questions with multiple interpretations?",
+    "answer": "The ASQA dataset (Stelmakh et al., 2022) is used as the testbed.",
+    "gold_block_ids": [
+      "2305.06983_p006_b0155"
+    ],
+    "paper_ids": [
+      "2305.06983"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1b6a6da1",
+    "category": "plain_factual",
+    "question": "How many datapoints does ARES roughly rely on in its human preference validation set?",
+    "answer": "ARES relies on roughly 150-300 datapoints in the human preference validation set, although having more is better.",
+    "gold_block_ids": [
+      "2311.09476_p009_b0122"
+    ],
+    "paper_ids": [
+      "2311.09476"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_da0588bd",
+    "category": "plain_factual",
+    "question": "What do the authors use to generate the training data for their compressors?",
+    "answer": "The authors use a commercial language model to generate the training data.",
+    "gold_block_ids": [
+      "2310.04408_p010_b0153"
+    ],
+    "paper_ids": [
+      "2310.04408"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_08290649",
+    "category": "plain_factual",
+    "question": "What does the step of analyzing the differences between each report require?",
+    "answer": "This step requires comprehensive understanding and analysis from multiple angles.",
+    "gold_block_ids": [
+      "2401.17043_p013_b0272"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_0696af1a",
+    "category": "plain_factual",
+    "question": "Who acted as both the prosecutor and the judge in the Trial of Joan of Arc?",
+    "answer": "Pierre Cauchon acted as both the prosecutor and the judge in the Trial of Joan of Arc.",
+    "gold_block_ids": [
+      "2311.08147_p008_b0264"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_308da2b3",
+    "category": "plain_factual",
+    "question": "On which benchmarks does the Fusion-in-Decoder method outperform existing work?",
+    "answer": "Based on the passage, the Fusion-in-Decoder method outperforms existing work on the NaturalQuestion and TriviaQA benchmarks.",
+    "gold_block_ids": [
+      "2007.01282_p004_b0083"
+    ],
+    "paper_ids": [
+      "2007.01282"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_15fd7207",
+    "category": "plain_factual",
+    "question": "What are the two distinct strategies introduced for querying within the tree?",
+    "answer": "The two distinct strategies introduced for querying within the tree are the tree traversal method and the collapsed tree method.",
+    "gold_block_ids": [
+      "2401.18059_p003_b0066"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_2bd34877",
+    "category": "plain_factual",
+    "question": "What was the correct answer to the question about the judge of the trial that was clearly stated in the context?",
+    "answer": "The correct answer regarding the judge of the trial was Pierre Cauchon.",
+    "gold_block_ids": [
+      "2311.08147_p008_b0267"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f8ff652a",
+    "category": "plain_factual",
+    "question": "What two aspects are important for evaluating the quality of retrieval according to the passage?",
+    "answer": "According to the passage, context relevance and noise robustness are important for evaluating the quality of retrieval.",
+    "gold_block_ids": [
+      "2312.10997_p012_b0171"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_bb6a1336",
+    "category": "plain_factual",
+    "question": "According to the provided text, what is the number associated with the gsm8k (Grade School Math 8K) dataset?",
+    "answer": "The number associated with the gsm8k dataset is 7,473.",
+    "gold_block_ids": [
+      "2310.01352_p004_b0050"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_fc78eb5f",
+    "category": "plain_factual",
+    "question": "What did the original paper propose to use from the decoder cross-attentions to average across heads, layers, and tokens?",
+    "answer": "The original paper proposed to use the pre-softmax scores from the decoder cross-attentions.",
+    "gold_block_ids": [
+      "2208.03299_p004_b0065"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_22d5e23a",
+    "category": "plain_factual",
+    "question": "According to the passage, what challenges can arise when fine-tuning models?",
+    "answer": "Fine-tuning models can present challenges such as integrating functionality through an API or addressing constraints that arise from limited local computational resources.",
+    "gold_block_ids": [
+      "2312.10997_p009_b0117"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f95376fd",
+    "category": "plain_factual",
+    "question": "For what specific task is the Dense Passage Retriever (DPR) pre-trained?",
+    "answer": "The Dense Passage Retriever (DPR) is pre-trained specifically for the OpenQA task using question-answer pair data.",
+    "gold_block_ids": [
+      "2405.06211_p004_b0184"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_4469cdc1",
+    "category": "plain_factual",
+    "question": "What is the purpose of the bridge Seq2Seq model trained in the BGM framework?",
+    "answer": "The bridge Seq2Seq model in BGM is designed to transform retrieved information into a format that LLMs can work with effectively, allowing it to rerank, dynamically select passages for each query, and potentially employ advanced strategies like repetition.",
+    "gold_block_ids": [
+      "2312.10997_p009_b0118"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_9b0b7496",
+    "category": "plain_factual",
+    "question": "According to the passage, how does PLAN-AND-SOLVE prompting extend zero-shot chain-of-thought reasoning?",
+    "answer": "PLAN-AND-SOLVE prompting extends zero-shot chain-of-thought reasoning by first devising a plan that divides the task into subtasks, and then executing these subtasks according to the plan.",
+    "gold_block_ids": [
+      "2412.17558_p016_b0281"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_10fe6425",
+    "category": "plain_factual",
+    "question": "According to the passage, how does SELF-RAG differ from RLHF in terms of training requirements to modify a model's behavior?",
+    "answer": "While RLHF often requires training to change a model's behavior, SELF-RAG tailors a language model with no additional training.",
+    "gold_block_ids": [
+      "2310.11511_p006_b0133"
+    ],
+    "paper_ids": [
+      "2310.11511"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_fd00ac19",
+    "category": "plain_factual",
+    "question": "According to the passage, what can be explored as a replacement for human labeling in the ARES framework?",
+    "answer": "GPT-4 can be explored as a replacement for human labeling in the ARES framework.",
+    "gold_block_ids": [
+      "2311.09476_p008_b0119"
+    ],
+    "paper_ids": [
+      "2311.09476"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_5feb9566",
+    "category": "plain_factual",
+    "question": "What is the overhead percentage when training with a batch size of 64, using 20 retrieved documents from a 37M document index, and refreshing the index every 1000 steps?",
+    "answer": "The overhead is approximately 30%.",
+    "gold_block_ids": [
+      "2208.03299_p006_b0118"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_2a191b1a",
+    "category": "plain_factual",
+    "question": "What does the initial phase of the SANTA framework's training regimen focus on?",
+    "answer": "The initial phase focuses on the retriever, where contrastive learning is used to refine the query and document embeddings.",
+    "gold_block_ids": [
+      "2312.10997_p010_b0132"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_b71960ee",
+    "category": "plain_factual",
+    "question": "What required fields are standardized by the API contract and instrumentation schema?",
+    "answer": "The standardized required fields are run id, dataset id, pipeline metadata, latency, token usage, and cost estimates.",
+    "gold_block_ids": [
+      "2603.27355_p002_b0036"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_151cc600",
+    "category": "plain_factual",
+    "question": "What challenges do Large Language Models (LLMs) face that Retrieval-Augmented Generation (RAG) aims to address?",
+    "answer": "Large Language Models face challenges such as outdated knowledge and the generation of hallucinatory content.",
+    "gold_block_ids": [
+      "2401.17043_p004_b0032"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c521189d",
+    "category": "plain_factual",
+    "question": "Which Large Language Models (LLMs) were used to demonstrate the improved accuracy and efficiency of Adaptive-RAG in the experiments?",
+    "answer": "The experiments demonstrated improvements on multiple LLMs, specifically GPT-3.5 and the FLAN-T5 series.",
+    "gold_block_ids": [
+      "2403.14403_p002_b0065"
+    ],
+    "paper_ids": [
+      "2403.14403"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e28dcbff",
+    "category": "plain_factual",
+    "question": "How many tasks and datasets are covered in the summary of RAG assessment methods?",
+    "answer": "The summary of RAG assessment methods covers 26 tasks and nearly 50 datasets.",
+    "gold_block_ids": [
+      "2312.10997_p002_b0023"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_68241afe",
+    "category": "plain_factual",
+    "question": "What transmission choices were available for the early US models mentioned in the passage?",
+    "answer": "The early US models offered a choice of either a 6-speed manual or a 5-speed automatic transmission.",
+    "gold_block_ids": [
+      "2310.04408_p002_b0012"
+    ],
+    "paper_ids": [
+      "2310.04408"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_2e019a2e",
+    "category": "plain_factual",
+    "question": "What is the primary goal of the retrieval process in RAG?",
+    "answer": "The retrieval process in RAG aims to provide relevant information from external knowledge sources.",
+    "gold_block_ids": [
+      "2405.06211_p004_b0181"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_d9ac0727",
+    "category": "plain_factual",
+    "question": "According to the passage, which quality dimension was found to be the hardest to evaluate?",
+    "answer": "Context relevance was found to be the hardest quality dimension to evaluate.",
+    "gold_block_ids": [
+      "2309.15217_p005_b0085"
+    ],
+    "paper_ids": [
+      "2309.15217"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_7480ccc7",
+    "category": "plain_factual",
+    "question": "What are the two advantages of having a memory comprised of raw text rather than distributed representations?",
+    "answer": "A memory made of raw text is both human-readable, which provides a form of interpretability, and human-writable, which allows the model's memory to be dynamically updated by editing the document index.",
+    "gold_block_ids": [
+      "2005.11401_p009_b0220"
+    ],
+    "paper_ids": [
+      "2005.11401"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c28e1c8f",
+    "category": "plain_factual",
+    "question": "According to the passage, why is it essential to fine-tune an embedding model on your own domain dataset in highly specialized disciplines?",
+    "answer": "Fine-tuning the embedding model on a domain dataset is essential to mitigate discrepancies when the context significantly deviates from the pre-training corpus.",
+    "gold_block_ids": [
+      "2312.10997_p009_b0114"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_5b84a950",
+    "category": "plain_factual",
+    "question": "For which specific deployments and contracts are the results reported in this paper?",
+    "answer": "The results are reported for Azure-hosted OpenAI deployments under fixed prompt and retrieval contracts.",
+    "gold_block_ids": [
+      "2603.27355_p010_b0147"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_b3915aac",
+    "category": "plain_factual",
+    "question": "According to the passage, what percentage of errors are caused by a failure to retrieve the correct information?",
+    "answer": "Forty-five percent (45%) of errors are due to a failure in retrieving the right information.",
+    "gold_block_ids": [
+      "2310.06117_p008_b0137"
+    ],
+    "paper_ids": [
+      "2310.06117"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c396926a",
+    "category": "plain_factual",
+    "question": "According to the passage, what does the HYDE method prompt an LLM to do?",
+    "answer": "The HYDE method prompts an LLM to generate a hypothetical document that would answer the query, without concern for factual accuracy.",
+    "gold_block_ids": [
+      "2412.17558_p009_b0191"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_3441a92b",
+    "category": "plain_factual",
+    "question": "What can happen to LLMs when concepts in external documents are similar to, but different from, the concepts in the question?",
+    "answer": "This can cause concept confusion for LLMs, which can make them generate incorrect answers.",
+    "gold_block_ids": [
+      "2309.01431_p006_b0156"
+    ],
+    "paper_ids": [
+      "2309.01431"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_8f665c70",
+    "category": "plain_factual",
+    "question": "What is concatenated with the query using a system prompt during the response generation stage?",
+    "answer": "During the response generation stage, the retrieved texts EK(q, D) are concatenated with the query.",
+    "gold_block_ids": [
+      "2505.18543_p003_b0042"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_da4eb24b",
+    "category": "plain_factual",
+    "question": "How many different dataset splits are created using the validation subsets for KILT and SuperGLUE?",
+    "answer": "Using the validation subsets, nine different dataset splits are created.",
+    "gold_block_ids": [
+      "2311.09476_p005_b0070"
+    ],
+    "paper_ids": [
+      "2311.09476"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_4c83b23e",
+    "category": "plain_factual",
+    "question": "What does this section describe to evaluate the impact of the RAG system components on system performance?",
+    "answer": "This section describes how the authors conduct experiments to evaluate the impact of the RAG system's components on system performance.",
+    "gold_block_ids": [
+      "2401.17043_p015_b0313"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_579250e5",
+    "category": "plain_factual",
+    "question": "Which model does ARES leverage to generate synthetic queries and answers?",
+    "answer": "ARES leverages the FLAN-T5 XXL model to generate synthetic queries and answers.",
+    "gold_block_ids": [
+      "2401.17043_p006_b0124"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_182f65c8",
+    "category": "table_lookup",
+    "question": "Based on Table 2, what is the ASR value for the JamOracle attack on the MS-MARCO-EX-M dataset?",
+    "answer": "0.01",
+    "gold_block_ids": [
+      "2505.18543_p006_b1375"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_01676693",
+    "category": "table_lookup",
+    "question": "According to Table 20 (Downstream results on KILT dev sets), what is the f1 score for the WoW dataset when using the Atlas 64-shot model?",
+    "answer": "15.4",
+    "gold_block_ids": [
+      "2208.03299_p033_b0637"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_2e379186",
+    "category": "table_lookup",
+    "question": "According to Table 7, what is the accuracy of the CoLISA (DeBERTaV3-large) model on the hard subset of the QuALITY dataset?",
+    "answer": "54.7",
+    "gold_block_ids": [
+      "2401.18059_p009_b0430",
+      "2401.18059_p009_b0152"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a194e760",
+    "category": "table_lookup",
+    "question": "According to the table, what is the number of instances for the ShareGPT dataset?",
+    "answer": "13,406",
+    "gold_block_ids": [
+      "2310.11511_p018_b0539"
+    ],
+    "paper_ids": [
+      "2310.11511"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1c57c9d9",
+    "category": "table_lookup",
+    "question": "According to the example answer for the SituatedQA dataset in the table, how many rooms did the Excalibur hotel have?",
+    "answer": "4,008",
+    "gold_block_ids": [
+      "2310.06117_p025_b0584"
+    ],
+    "paper_ids": [
+      "2310.06117"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_d7ac11e2",
+    "category": "table_lookup",
+    "question": "In the provided table text, what exact category string is listed in the cell between 'Hum.' and 'Other'?",
+    "answer": "Soc Sci. STEM",
+    "gold_block_ids": [
+      "2208.03299_p016_b0627"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_9a0d53bc",
+    "category": "table_lookup",
+    "question": "What is the ACC score for the Adaptive+CRAG-AK attack against the Claude-3-7-Sonnet model in the evaluation of poisoning attacks?",
+    "answer": "0.32",
+    "gold_block_ids": [
+      "2505.18543_p044_b1411"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_bd776a04",
+    "category": "table_lookup",
+    "question": "According to the ticket routing error summary in Table 14, what is the workflow success (WF) value for the 'CS prompt v2 (seed 1337)' run?",
+    "answer": "0.165",
+    "gold_block_ids": [
+      "2603.27355_p016_b0316"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_871fbb4d",
+    "category": "table_lookup",
+    "question": "What is the FactScore on the Bio dataset for the Self-CRAG method under the SelfRAG-LLaMA2-7b category?",
+    "answer": "86.2",
+    "gold_block_ids": [
+      "2401.15884_p007_b0322"
+    ],
+    "paper_ids": [
+      "2401.15884"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_5c3c4237",
+    "category": "table_lookup",
+    "question": "Based on Table 38, what is the ASR score for the CRAG-AK attack evaluated on the NQ-EX-M dataset using the Contriever-MS retriever?",
+    "answer": "0.74",
+    "gold_block_ids": [
+      "2505.18543_p039_b1404"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_5e5b2468",
+    "category": "table_lookup",
+    "question": "According to the table, what is the value when querying 2 layers with the start layer being Layer 1?",
+    "answer": "89.4",
+    "gold_block_ids": [
+      "2401.18059_p022_b0439"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_cab28255",
+    "category": "table_lookup",
+    "question": "According to Table 4, what is the 0-shot performance of the LLAMA 65B + DRAGON+ model on the zsRE dataset when using the top-1 chunk?",
+    "answer": "48.8",
+    "gold_block_ids": [
+      "2310.01352_p007_b0446",
+      "2310.01352_p007_b0123"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c2e946e9",
+    "category": "table_lookup",
+    "question": "According to Table 40, what is the ACC metric achieved when evaluating the AP poisoning attack against the FLARE advanced RAG method on the NQ dataset?",
+    "answer": "0.69",
+    "gold_block_ids": [
+      "2505.18543_p041_b1407"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_aab53a2d",
+    "category": "table_lookup",
+    "question": "According to Table 2 (The notations appearing in the definitions of proposed metrics), what is the meaning of the notation '|X|'?",
+    "answer": "The size of a set X",
+    "gold_block_ids": [
+      "2311.08147_p004_b0383"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_7cf35288",
+    "category": "table_lookup",
+    "question": "Based on the provided table, what are the three sub-column labels listed under the 'Ambiguous' category?",
+    "answer": "x, kin, and kex",
+    "gold_block_ids": [
+      "2401.15884_p004_b0320"
+    ],
+    "paper_ids": [
+      "2401.15884"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e7c45203",
+    "category": "table_lookup",
+    "question": "According to Table 2, what is the NQ score for the RA-DIT 65B model in the 5-shot in-context setting?",
+    "answer": "43.9",
+    "gold_block_ids": [
+      "2310.01352_p006_b0444"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_8f5d7d2a",
+    "category": "table_lookup",
+    "question": "Based on the provided table, what is the value located in the second column of the final row?",
+    "answer": "5",
+    "gold_block_ids": [
+      "2505.18543_p041_b1406"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_4c19233f",
+    "category": "table_lookup",
+    "question": "According to Table 44, what is the ASR metric for the Adaptive+BPI attack when evaluated on the GPT-4.1 model?",
+    "answer": "0.45",
+    "gold_block_ids": [
+      "2505.18543_p043_b1410"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_840a72c1",
+    "category": "table_lookup",
+    "question": "According to the provided table, which model is listed under the 'RAG Learning' category within the [500, 1000) citation range?",
+    "answer": "EMDR2 (Singh, 2021)",
+    "gold_block_ids": [
+      "2405.06211_p003_b0637"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_11888c45",
+    "category": "table_lookup",
+    "question": "Based on Table 7, what is the accuracy score of the Atlas model in the 'Soc. Sci.' category under the 'Full / Transfer' setting?",
+    "answer": "77.2",
+    "gold_block_ids": [
+      "2208.03299_p014_b0623",
+      "2208.03299_p013_b0205"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a45ba521",
+    "category": "table_lookup",
+    "question": "According to the table 'MRR Values for Different Tasks and Embeddings', what specific MRR value is listed in the cell immediately to the right of 51.2?",
+    "answer": "50.6",
+    "gold_block_ids": [
+      "2401.17043_p022_b0706"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_01ced4ff",
+    "category": "table_lookup",
+    "question": "According to the table, what is the 'Edited Answer' provided for the 2017-2018 UEFA Champions League winner?",
+    "answer": "FC Barcelona",
+    "gold_block_ids": [
+      "2311.08147_p003_b0382"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_91278123",
+    "category": "table_lookup",
+    "question": "According to the table, what is the zero-shot score for the 'high school physics' domain?",
+    "answer": "26.5",
+    "gold_block_ids": [
+      "2208.03299_p032_b0635"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_0e55baf3",
+    "category": "table_lookup",
+    "question": "According to the table, what is the number of Tokens / Response for the DTRW Test set?",
+    "answer": "259.72",
+    "gold_block_ids": [
+      "2410.23090_p015_b0608"
+    ],
+    "paper_ids": [
+      "2410.23090"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_6cb95990",
+    "category": "table_lookup",
+    "question": "In the table, what text is provided in the last column of the row that begins with '111:20'?",
+    "answer": "Lyu, et al.",
+    "gold_block_ids": [
+      "2401.17043_p020_b0702"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f5799006",
+    "category": "table_lookup",
+    "question": "Based on the provided table, what metric is listed in the same row as ACC and ASR?",
+    "answer": "F1-score",
+    "gold_block_ids": [
+      "2505.18543_p008_b1378"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f7f59b95",
+    "category": "table_lookup",
+    "question": "According to the table, what is the BLEU-4 score for the DPR without RAPTOR model?",
+    "answer": "6.12%",
+    "gold_block_ids": [
+      "2401.18059_p007_manual001"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": true,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_58ff56de",
+    "category": "table_lookup",
+    "question": "According to the ARES Ranking of Pseudo RAG Systems table, what is the GPT-3.5 Judge Accuracy for Context Relevance (C.R) on the HotpotQA dataset?",
+    "answer": "75.3%",
+    "gold_block_ids": [
+      "2311.09476_p007_b0356"
+    ],
+    "paper_ids": [
+      "2311.09476"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_33fd755d",
+    "category": "table_lookup",
+    "question": "Based on table 23 (NQ dataset), what is the FPR metric for the TrustRAG defense against the JamOracle attack?",
+    "answer": "0.07",
+    "gold_block_ids": [
+      "2505.18543_p034_b1395"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_dd1697e6",
+    "category": "table_lookup",
+    "question": "In Table 17, what is the ACC score for the JamOpt attack when evaluated against the RobustRAG defense on the SQuAD-EX-M dataset?",
+    "answer": "0.84",
+    "gold_block_ids": [
+      "2505.18543_p031_b1392"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_34fd0668",
+    "category": "table_lookup",
+    "question": "Based on Table 13 detailing MMLU scores with de-biasing, what is the score for the STEM category when using the 5-shot setting with Cyclic Permutations?",
+    "answer": "38.8",
+    "gold_block_ids": [
+      "2208.03299_p027_b0630"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a6496b97",
+    "category": "table_lookup",
+    "question": "According to Table 12, what is the p95 latency (ms) for the IT tickets (IT) dataset when evaluated with the v2 prompt?",
+    "answer": "2447 \u00b1 93",
+    "gold_block_ids": [
+      "2603.27355_p012_b0309"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_824de719",
+    "category": "table_lookup",
+    "question": "According to Table 8, what is the performance of RAPTOR for Story 1 from the QuALITY dataset when querying 3 layers and starting from Layer 2?",
+    "answer": "73.68",
+    "gold_block_ids": [
+      "2401.18059_p009_b0431",
+      "2401.18059_p008_b0136"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_41d20505",
+    "category": "table_lookup",
+    "question": "According to the provided text, how much CON data was created using GPT-4 to subsequently train a LLaMa-2 7B model?",
+    "answer": "10K",
+    "gold_block_ids": [
+      "2311.09210_p008_b0312"
+    ],
+    "paper_ids": [
+      "2311.09210"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a7ffd97b",
+    "category": "table_lookup",
+    "question": "In the Answer column for the MMLU Physics dataset example, what is the calculated value for the electric potential energy of Q2 at the final position (Ufinal)?",
+    "answer": "24 J",
+    "gold_block_ids": [
+      "2310.06117_p023_b0582"
+    ],
+    "paper_ids": [
+      "2310.06117"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_0f8e23ac",
+    "category": "table_lookup",
+    "question": "According to the table, what is the F1 score for the 'Complex Multi-step Approach' on the 'HotpotQA' dataset with 'GPT-3.5 (Turbo)' as LLM?",
+    "answer": "58.36",
+    "gold_block_ids": [
+      "2403.14403_p015_b0396"
+    ],
+    "paper_ids": [
+      "2403.14403"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c38652e9",
+    "category": "table_lookup",
+    "question": "Based on the table for (a) EventKG, what is the \"wrong answers\" score for the \"TG\" category?",
+    "answer": "0.546",
+    "gold_block_ids": [
+      "2311.08147_p008_b0389"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_43be1c48",
+    "category": "table_lookup",
+    "question": "According to Table 13, what is the score for the AIDA dataset when using the RA-IT 65B model with chunk concatenation (concat)?",
+    "answer": "52.2",
+    "gold_block_ids": [
+      "2310.01352_p023_b0454"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_234a9d0b",
+    "category": "table_lookup",
+    "question": "Based on Table 3, what is the RAGQuestEval precision for the 'question answering 2-document' task with a chunk size of 128 and topk of 8?",
+    "answer": "42.93",
+    "gold_block_ids": [
+      "2401.17043_p017_b0698"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_81b0a99f",
+    "category": "table_lookup",
+    "question": "What is the Precision (Prec.) score when \u03b2 is set to 0.2 according to the provided table?",
+    "answer": "0.582",
+    "gold_block_ids": [
+      "2305.06983_p009_manual001"
+    ],
+    "paper_ids": [
+      "2305.06983"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": true,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_8d66033b",
+    "category": "table_lookup",
+    "question": "Based on the provided table, what is the p95 latency (ms) for the run labeled 'IT prompt v2 (seed 42)'?",
+    "answer": "2350",
+    "gold_block_ids": [
+      "2603.27355_p016_b0318"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_18a0319c",
+    "category": "table_lookup",
+    "question": "According to the retriever fine-tuning ablation table, what is the average (Avg.) score for the 'Fixed retriever' strategy in the 1024-shot setting?",
+    "answer": "48.3",
+    "gold_block_ids": [
+      "2208.03299_p012_b0621"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_43fa148b",
+    "category": "table_lookup",
+    "question": "In the provided table, what is the rouge-L score for the Hybrid+Rerank retriever on the summarization task?",
+    "answer": "33.90",
+    "gold_block_ids": [
+      "2401.17043_p020_b0703"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_15f27704",
+    "category": "table_lookup",
+    "question": "Based on Table 3 regarding the results of negative rejection, what are the four numerical values listed for the ChatGLM2-6B model?",
+    "answer": "10.33, 41.33, 6.33, and 36.33",
+    "gold_block_ids": [
+      "2309.01431_p006_b0218"
+    ],
+    "paper_ids": [
+      "2309.01431"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c1aa778d",
+    "category": "table_lookup",
+    "question": "What is the F1-score for the HotpotQA dataset according to the provided table?",
+    "answer": "1.00",
+    "gold_block_ids": [
+      "2505.18543_p021_b1385"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_7d2a3bc9",
+    "category": "table_lookup",
+    "question": "According to the table, what quantitative metric is used to evaluate 'Counterfactual Robustness' for 'Generation Quality' in the RECALL framework?",
+    "answer": "R-Rate (Reappearance Rate)",
+    "gold_block_ids": [
+      "2312.10997_p015_b0457"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_8a342ba1",
+    "category": "table_lookup",
+    "question": "According to the caption of Figure 3 (right), retrieving more documents leads to higher Rouge-L at the expense of Bleu-1 for which model?",
+    "answer": "RAG-Token",
+    "gold_block_ids": [
+      "2005.11401_p008_b0414",
+      "2005.11401_p007_b0173"
+    ],
+    "paper_ids": [
+      "2005.11401"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_15e72be3",
+    "category": "table_lookup",
+    "question": "According to the \"Editing Non-answer Texts\" section, which specific parts of the generated texts are modified for EventKG?",
+    "answer": "The parts that involve people, locations, and dates",
+    "gold_block_ids": [
+      "2311.08147_p004_b0384"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_09eff7df",
+    "category": "table_lookup",
+    "question": "Based on Table 14, what is the 5-shot dev set performance on the HoPo dataset for the DRAGON+ retriever using the 'Wiki 2021 + infobox' corpus ablation with LLAMA 65B?",
+    "answer": "41.8",
+    "gold_block_ids": [
+      "2310.01352_p023_b0455"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f03ca276",
+    "category": "table_lookup",
+    "question": "Based on the table, what is the SQuAD Open F1 score for the Multi-Passage BERT (Wang et al., 2019) model?",
+    "answer": "60.9",
+    "gold_block_ids": [
+      "2007.01282_p003_b0160"
+    ],
+    "paper_ids": [
+      "2007.01282"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_da7ee9c9",
+    "category": "table_lookup",
+    "question": "According to the abstract, what two tasks does the created benchmark consist of to evaluate the ability of LLMs to discern the reliability of external knowledge?",
+    "answer": "Question Answering and Text Generation",
+    "gold_block_ids": [
+      "2311.08147_p001_b0379"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_ec3b045c",
+    "category": "table_lookup",
+    "question": "According to Table 21, what is the ASR metric for the 'BadRAG' attack when evaluated against the 'RobustRAG' defense on the BoolQ-EX-L dataset?",
+    "answer": "0.06",
+    "gold_block_ids": [
+      "2505.18543_p033_b1394"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_2d19f68b",
+    "category": "table_lookup",
+    "question": "According to Table 5, how many examples are in the Dev split of the StrategyQA dataset?",
+    "answer": "229",
+    "gold_block_ids": [
+      "2310.06117_p014_b0577"
+    ],
+    "paper_ids": [
+      "2310.06117"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_3dc4527b",
+    "category": "table_lookup",
+    "question": "According to the table comparing finetuning recipes, what score does the DSF + RAG model achieve on the HuggingFace benchmark?",
+    "answer": "42.59",
+    "gold_block_ids": [
+      "2403.10131_p005_b0253"
+    ],
+    "paper_ids": [
+      "2403.10131"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_9c9a8795",
+    "category": "table_lookup",
+    "question": "According to the provided table, what entry is listed directly below ISREL?",
+    "answer": "ISSUP",
+    "gold_block_ids": [
+      "2310.11511_p010_b0534"
+    ],
+    "paper_ids": [
+      "2310.11511"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_863669ef",
+    "category": "table_lookup",
+    "question": "Based on Table 5, what is the F-1 Match score of the RAPTOR + GPT-4 model on the QASPER dataset?",
+    "answer": "55.7",
+    "gold_block_ids": [
+      "2401.18059_p008_b0428"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_247bea46",
+    "category": "table_lookup",
+    "question": "Based on the provided table, what is the F1 score on the TriviaQA dataset for the SAIL (Luo et al., 2023) method using the LLaMa-2 7B backbone language model?",
+    "answer": "80.92",
+    "gold_block_ids": [
+      "2311.09210_p006_b0309"
+    ],
+    "paper_ids": [
+      "2311.09210"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_3cd399cb",
+    "category": "table_lookup",
+    "question": "According to the provided text, by what percentages does STEP-BACK PROMPTING improve model performance compared to PaLM-2L?",
+    "answer": "+7% and +11%",
+    "gold_block_ids": [
+      "2310.06117_p005_b0573"
+    ],
+    "paper_ids": [
+      "2310.06117"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_17964cd8",
+    "category": "figure_caption",
+    "question": "According to Figure 2, how are relevant context spans and utilized context spans visually represented?",
+    "answer": "Relevant context spans are highlighted, and utilized context spans are underlined.",
+    "gold_block_ids": [
+      "2407.11005_p005_b0350",
+      "2407.11005_p005_b0063"
+    ],
+    "paper_ids": [
+      "2407.11005"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_3d4a3c6b",
+    "category": "figure_caption",
+    "question": "According to Figure 4, for which two tasks is the dataset construction pipeline designed?",
+    "answer": "Text continuation and multi-document summarization",
+    "gold_block_ids": [
+      "2401.17043_p011_b0716",
+      "2401.17043_p011_b0250"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_45dbbf3c",
+    "category": "figure_caption",
+    "question": "In the REPLUG LSR training process shown in Figure 3, what serves as the supervision to train the retriever?",
+    "answer": "The output of a frozen language model.",
+    "gold_block_ids": [
+      "2301.12652_p005_b0312",
+      "2301.12652_p005_b0084"
+    ],
+    "paper_ids": [
+      "2301.12652"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_19a6f479",
+    "category": "figure_caption",
+    "question": "What metric is used to compare the different embedding models in the benchmark shown in Figure 8?",
+    "answer": "Mean Reciprocal Rank (MRR) scores.",
+    "gold_block_ids": [
+      "2401.17043_p022_b0725",
+      "2401.17043_p022_b0493"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_8ee1e8bb",
+    "category": "figure_caption",
+    "question": "According to the overview of RAGQuestEval in Figure 6, what does the recall metric indicate, and how is the recall score calculated?",
+    "answer": "The recall metric indicates how much of the key information in the ground truth reference is included in the generated text. The recall score is calculated as the ratio of answerable questions to all questions.",
+    "gold_block_ids": [
+      "2401.17043_p014_b0719",
+      "2401.17043_p014_b0288"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_7da1f9a7",
+    "category": "figure_caption",
+    "question": "According to the error analysis in Figure 5, what are the two dominant error sources for Step-Back Prompting?",
+    "answer": "Reasoning and RAG",
+    "gold_block_ids": [
+      "2310.06117_p007_b0595",
+      "2310.06117_p007_b0126"
+    ],
+    "paper_ids": [
+      "2310.06117"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a8405dab",
+    "category": "figure_caption",
+    "question": "Based on Figure 4, what are the two distinct manners in which a retriever in RA-LLMs can be implemented?",
+    "answer": "The retriever in RA-LLMs can be implemented in either dense or sparse manners.",
+    "gold_block_ids": [
+      "2405.06211_p005_b0688",
+      "2405.06211_p005_b0229"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_18da2200",
+    "category": "figure_caption",
+    "question": "Based on Figure 4, what do the highlighted nodes and the arrows represent in the querying process illustration?",
+    "answer": "The highlighted nodes indicate RAPTOR\u2019s selections, while the arrows point to DPR\u2019s leaf nodes.",
+    "gold_block_ids": [
+      "2401.18059_p007_b0730",
+      "2401.18059_p007_b0112"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e634f50b",
+    "category": "figure_caption",
+    "question": "What is the core idea behind CHAIN-OF-NOTE (CON) compared to current RALMs, according to Figure 1?",
+    "answer": "The core idea behind CHAIN-OF-NOTE (CON) is to generate sequential reading notes for the retrieved documents to ensure a systematic assessment of their relevance to the input question before formulating a final response.",
+    "gold_block_ids": [
+      "2311.09210_p001_b0319",
+      "2311.09210_p001_b0019"
+    ],
+    "paper_ids": [
+      "2311.09210"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1efd824b",
+    "category": "figure_caption",
+    "question": "Based on Figure 4, which atomic query optimization operation clarifies a query by adding constraints, and what is its query transformation representation?",
+    "answer": "The operation is Disambiguation, and its query transformation representation is q \u2192 qc.",
+    "gold_block_ids": [
+      "2412.17558_p007_b0859",
+      "2412.17558_p007_b0152"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_6294a633",
+    "category": "figure_caption",
+    "question": "According to the CHAIN-OF-NOTE (CON) framework illustrated in Figure 2, what action or result occurs when the language model encounters a Type (c) reading note scenario?",
+    "answer": "In a Type (c) scenario, the language model encounters irrelevant documents and lacks the necessary knowledge to respond, which results in an \"unknown\" answer.",
+    "gold_block_ids": [
+      "2311.09210_p003_b0330",
+      "2311.09210_p003_b0049"
+    ],
+    "paper_ids": [
+      "2311.09210"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_36ff2cbb",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 1, what specific process or system is illustrated?",
+    "answer": "RAG with multi-hop query",
+    "gold_block_ids": [
+      "2401.15391_p001_b0192",
+      "2401.15391_p001_b0009"
+    ],
+    "paper_ids": [
+      "2401.15391"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_837f3724",
+    "category": "figure_caption",
+    "question": "In the RAFT algorithm, which specific step is represented by the prompt shown in Figure 3?",
+    "answer": "The 'GenerateExplanation' step.",
+    "gold_block_ids": [
+      "2403.10131_p005_b0290",
+      "2403.10131_p005_b0068"
+    ],
+    "paper_ids": [
+      "2403.10131"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_940a4c18",
+    "category": "figure_caption",
+    "question": "According to Figure 3, what specific task is the abstractive compressor being learned for?",
+    "answer": "The language modeling task.",
+    "gold_block_ids": [
+      "2310.04408_p004_b0360",
+      "2310.04408_p004_b0072"
+    ],
+    "paper_ids": [
+      "2310.04408"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_6ee3cce7",
+    "category": "figure_caption",
+    "question": "According to the Query Optimization Lifecycle (QOL) Framework, what are the four atomic operations in Phase 2 that can be applied individually or combined?",
+    "answer": "Expansion, Decomposition, Disambiguation, and Abstraction",
+    "gold_block_ids": [
+      "2412.17558_p004_b0854",
+      "2412.17558_p004_b0072"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a7d56d97",
+    "category": "figure_caption",
+    "question": "According to Figure 3, what do the placeholders \"{DOCS}\" and \"{QUERY}\" represent in the instructions?",
+    "answer": "The placeholder \"{DOCS}\" is replaced by the external documents, and \"{QUERY}\" is replaced by the question.",
+    "gold_block_ids": [
+      "2309.01431_p005_b0221",
+      "2309.01431_p004_b0115"
+    ],
+    "paper_ids": [
+      "2309.01431"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_060a32b7",
+    "category": "figure_caption",
+    "question": "Into what four categories does the CRUD-RAG benchmark classify RAG application scenarios?",
+    "answer": "The four categories are create, read, update, and delete.",
+    "gold_block_ids": [
+      "2401.17043_p008_b0713",
+      "2401.17043_p008_b0163"
+    ],
+    "paper_ids": [
+      "2401.17043"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_33ac88ae",
+    "category": "figure_caption",
+    "question": "What parameter of RAG is varied in Figure 3 to show the results of poisoning attacks on the NQ dataset?",
+    "answer": "top-K",
+    "gold_block_ids": [
+      "2505.18543_p008_b1421",
+      "2505.18543_p008_b0259"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_4db3013b",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 1, what do the numerical labels on the nodes in Part (a) indicate?",
+    "answer": "The numerical labels on the nodes indicate the round of the sampled conversation turns.",
+    "gold_block_ids": [
+      "2410.23090_p003_b0624",
+      "2410.23090_p003_b0061"
+    ],
+    "paper_ids": [
+      "2410.23090"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e0cdcfc9",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 3, which two metrics are plotted against each other to show the latency-utility frontiers for the FiQA scenario?",
+    "answer": "The two metrics plotted are p95 latency and readiness score.",
+    "gold_block_ids": [
+      "2603.27355_p007_b0325",
+      "2603.27355_p007_b0111"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_98ed1fb6",
+    "category": "figure_caption",
+    "question": "Which two datasets are used to construct the benchmark according to the procedures shown in Figure 2?",
+    "answer": "The EventKG and UJ datasets.",
+    "gold_block_ids": [
+      "2311.08147_p003_b0401",
+      "2311.08147_p003_b0059"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1f649d41",
+    "category": "figure_caption",
+    "question": "According to Figure 1, what is the specific objective of the R-ft component when updating the retriever in the RA-DIT approach?",
+    "answer": "The objective of the R-ft component is to minimize the KL-Divergence between the retriever score distribution and the LLM preference.",
+    "gold_block_ids": [
+      "2310.01352_p002_b0456",
+      "2310.01352_p002_b0014"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_45267c0c",
+    "category": "figure_caption",
+    "question": "According to Figure 3, across which four categories is the auto-eval truthfulness of the LLM-only and Task 3 solutions compared?",
+    "answer": "Domain, dynamism, popularity, and question type.",
+    "gold_block_ids": [
+      "2406.04744_p008_b0621",
+      "2406.04744_p008_b0264"
+    ],
+    "paper_ids": [
+      "2406.04744"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_3c6ce813",
+    "category": "figure_caption",
+    "question": "Based on Figure 4, how does the requirement for model modifications differ between Naive RAG and Modular RAG?",
+    "answer": "Naive RAG (representing the early stages of RAG) has a low demand for model modifications, whereas Modular RAG has become more integrated with fine-tuning techniques as research has progressed.",
+    "gold_block_ids": [
+      "2312.10997_p007_b0462",
+      "2312.10997_p007_b0077"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_49285979",
+    "category": "figure_caption",
+    "question": "What method's architecture is illustrated in Figure 2?",
+    "answer": "The Fusion-in-Decoder method.",
+    "gold_block_ids": [
+      "2007.01282_p002_b0164",
+      "2007.01282_p002_b0028"
+    ],
+    "paper_ids": [
+      "2007.01282"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_48f50c38",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 4, what does the right-most point in each plot represent?",
+    "answer": "The uncompressed index.",
+    "gold_block_ids": [
+      "2208.03299_p019_b0641",
+      "2208.03299_p019_b0324"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_b4123ae0",
+    "category": "figure_caption",
+    "question": "Based on the comparison in Figure 4, what incorrect type of information does the DSF model extract from the context when asked who the screenwriter is?",
+    "answer": "A film name",
+    "gold_block_ids": [
+      "2403.10131_p007_b0292",
+      "2403.10131_p007_b0096"
+    ],
+    "paper_ids": [
+      "2403.10131"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_1570c8be",
+    "category": "figure_caption",
+    "question": "During which stages of its development does the retrieval-augmented language model Atlas utilize retrieval?",
+    "answer": "Atlas utilizes retrieval during both pre-training and fine-tuning.",
+    "gold_block_ids": [
+      "2208.03299_p002_b0638",
+      "2208.03299_p002_b0030"
+    ],
+    "paper_ids": [
+      "2208.03299"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_96c705bd",
+    "category": "figure_caption",
+    "question": "According to Figure 2, which two metrics are plotted against each other to show the latency-utility frontiers for the SciFact scenario?",
+    "answer": "p95 latency and readiness score",
+    "gold_block_ids": [
+      "2603.27355_p005_b0323",
+      "2603.27355_p005_b0089"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_92bc25af",
+    "category": "figure_caption",
+    "question": "According to Figure 2, which document has a high posterior when the model generates the phrase \"The Sun Also Rises\" for the input \"Hemingway\"?",
+    "answer": "document 2",
+    "gold_block_ids": [
+      "2005.11401_p007_b0423",
+      "2005.11401_p007_b0156"
+    ],
+    "paper_ids": [
+      "2005.11401"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_ed6048b3",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 3, what is the purpose of normalizing the Y-axis?",
+    "answer": "The Y-axis is normalized to visualize the densities of the relevance, utilization, and completeness labels in RAGBench.",
+    "gold_block_ids": [
+      "2407.11005_p006_b0351",
+      "2407.11005_p006_b0085"
+    ],
+    "paper_ids": [
+      "2407.11005"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_9bb19422",
+    "category": "figure_caption",
+    "question": "According to the technology tree of RAG research described in Figure 1, which stage of involving RAG was initially the primary focus of research following the emergence of LLMs?",
+    "answer": "The inference stage",
+    "gold_block_ids": [
+      "2312.10997_p002_b0459",
+      "2312.10997_p002_b0020"
+    ],
+    "paper_ids": [
+      "2312.10997"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_368934bf",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 2, what is used to show the impact of the represented RAG and RA-LLMs methods?",
+    "answer": "Citation",
+    "gold_block_ids": [
+      "2405.06211_p003_b0661",
+      "2405.06211_p003_b0169"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_3cd43700",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 5, what does the taxonomy classify?",
+    "answer": "Query optimization techniques, along with representative methods.",
+    "gold_block_ids": [
+      "2412.17558_p008_b0860",
+      "2412.17558_p008_b0168"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_91af4662",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 3, what is analyzed in subfigure (b)?",
+    "answer": "Subfigure (b) analyzes the effects of soft weights on ASQA citation precision and Mauve (fluency).",
+    "gold_block_ids": [
+      "2310.11511_p009_b0617",
+      "2310.11511_p009_b0197"
+    ],
+    "paper_ids": [
+      "2310.11511"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_6f70476f",
+    "category": "figure_caption",
+    "question": "According to Figure 5, what metric is used to measure the performance of FLARE, and on which datasets is this performance evaluated?",
+    "answer": "The performance metric is EM, and the evaluation datasets are 2WikiMultihopQA and StrategyQA.",
+    "gold_block_ids": [
+      "2305.06983_p008_b0487",
+      "2305.06983_p008_b0205"
+    ],
+    "paper_ids": [
+      "2305.06983"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e3e777aa",
+    "category": "figure_caption",
+    "question": "According to Figure 1, what process or system workflow is being illustrated?",
+    "answer": "The standard workflow in a RAG system.",
+    "gold_block_ids": [
+      "2505.18543_p003_b1412",
+      "2505.18543_p003_b0039"
+    ],
+    "paper_ids": [
+      "2505.18543"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_aec571d5",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 1, what is the original query used to illustrate the high level process of RAG-Fusion?",
+    "answer": "IM72D128 IP Rating",
+    "gold_block_ids": [
+      "2402.03367_p003_b0113",
+      "2402.03367_p003_b0033"
+    ],
+    "paper_ids": [
+      "2402.03367"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_c292572a",
+    "category": "figure_caption",
+    "question": "According to Figure 6, into which three categories are the applications of RA-LLMs classified?",
+    "answer": "NLP applications, downstream tasks, and domain-specific applications",
+    "gold_block_ids": [
+      "2405.06211_p012_b0694",
+      "2405.06211_p012_b0386"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_b33c14e2",
+    "category": "figure_caption",
+    "question": "According to the caption of Figure 5, what does the figure represent?",
+    "answer": "The GPT-4 evaluation score.",
+    "gold_block_ids": [
+      "2410.23090_p008_b0675",
+      "2410.23090_p008_b0336"
+    ],
+    "paper_ids": [
+      "2410.23090"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_d0cff9c5",
+    "category": "multi_hop_comparative",
+    "question": "CRAG covers a specific number of question types across various domains. How many question types are there, and which labeled subfigure in the provided charts displays the results for this categorization?",
+    "answer": "There are eight types of questions, and their results are displayed in subfigure (d).",
+    "gold_block_ids": [
+      "2406.04744_p005_b0095",
+      "2406.04744_p010_b0607"
+    ],
+    "paper_ids": [
+      "2406.04744"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f787c76c",
+    "category": "multi_hop_comparative",
+    "question": "The modified DeBERTa-v3-Large model with shallow prediction heads outputs metrics for a specific type of system. According to the text, what are the two general components that comprise this system?",
+    "answer": "The modified model outputs metrics for Retriever-Augmented Generation (RAG) systems. According to the text, RAG systems generally comprise a retriever component and a downstream LLM generator model.",
+    "gold_block_ids": [
+      "2407.11005_p001_b0011",
+      "2407.11005_p008_b0115"
+    ],
+    "paper_ids": [
+      "2407.11005"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_19b65b20",
+    "category": "multi_hop_comparative",
+    "question": "What is the name of the system that uses directed acyclic graphs (DAGs) to orchestrate multi-tool retrieval for complex queries, such as the example provided involving the comparison of GDP growth data for the country where the World Wide Web was invented and the country that produces the most rare earth elements?",
+    "answer": "QUERYPLANNER (introduced by Fang & Glass, 2026)",
+    "gold_block_ids": [
+      "2412.17558_p030_b0488",
+      "2412.17558_p017_b0286"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_79c96662",
+    "category": "multi_hop_comparative",
+    "question": "If the baseline un-tuned in-context RALM approach used LLAMA 65B with the Contriever-msmarco retriever, what would be the calculated 5-shot score for RA-DIT 65B on the Natural Questions (NQ) dataset based on the improvement reported in the text?",
+    "answer": "Block A states that RA-DIT 65B surpasses the un-tuned in-context RALM approach on Natural Questions by +3.8% in the 5-shot setting. Block B indicates that LLAMA 65B combined with the Contriever-msmarco retriever achieves a 5-shot NQ score of 42.1. Adding the 3.8% improvement to the 42.1 baseline yields a calculated score of 45.9.",
+    "gold_block_ids": [
+      "2310.01352_p002_b0017",
+      "2310.01352_p008_b0449"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_91690221",
+    "category": "multi_hop_comparative",
+    "question": "What is the longitudinal release governance for a single internally deployed multi-agent application viewed as a specialization of, and what specific types of tickets and instructions are included in the minimal regression set to stress the system?",
+    "answer": "It is viewed as a specialization of the broader evaluation-and-observability layer, and the minimal regression set includes ambiguous tickets and prompt-injection-style instructions.",
+    "gold_block_ids": [
+      "2603.27355_p011_b0157",
+      "2603.27355_p003_b0061"
+    ],
+    "paper_ids": [
+      "2603.27355"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_69eaf292",
+    "category": "multi_hop_comparative",
+    "question": "When using the RAPTOR retriever, how does the F-1 Match score of the QA model publicly available at Hugging Face compare to the scores of the QA models accessed via OpenAI API calls?",
+    "answer": "The QA model publicly available at Hugging Face (UnifiedQA) achieves a lower F-1 Match score (36.6) compared to the QA models accessed via OpenAI API calls (GPT-3 with 53.1 and GPT-4 with 55.7).",
+    "gold_block_ids": [
+      "2401.18059_p008_manual003",
+      "2401.18059_p010_b0159"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": true,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_76ad788e",
+    "category": "table_lookup",
+    "question": "Based on the provided table, what is the F1 score for the 'w/o Silver' training strategy?",
+    "answer": "48.79",
+    "gold_block_ids": [
+      "2403.14403_p008_manual001"
+    ],
+    "paper_ids": [
+      "2403.14403"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": true,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_edb29180",
+    "category": "table_lookup",
+    "question": "Based on Table 10, what is the Recall score for the ChatGPT auto-evaluation model in the \"Incorrect\" category?",
+    "answer": "97.8",
+    "gold_block_ids": [
+      "2406.04744_p016_b0611"
+    ],
+    "paper_ids": [
+      "2406.04744"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_814555b0",
+    "category": "multi_hop_comparative",
+    "question": "According to the provided text, what specific problems does the method utilizing query generation blending and post-retrieval knowledge filtering tackle in order to enhance the performance of the models applied to Question Answer Systems, ChatBots, and Fact Verification?",
+    "answer": "The method tackles the problems of complex questions and noisy retrieved knowledge to enhance the performance of RA-LLMs, which are the models applied to those specific NLP systems.",
+    "gold_block_ids": [
+      "2405.06211_p012_b0388",
+      "2405.06211_p006_b0240"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_837e750d",
+    "category": "multi_hop_comparative",
+    "question": "Which method mentioned in the text preserves and explores ambiguity rather than treating it as noise, and which of the listed metrics provides a graded relevance measure accounting for rank position that could be used to evaluate it?",
+    "answer": "The ToC method preserves and explores ambiguity (as opposed to traditional IR), and Normalized Discounted Cumulative Gain (nDCG) provides a graded relevance measure accounting for rank position.",
+    "gold_block_ids": [
+      "2412.17558_p026_b0407",
+      "2412.17558_p019_b0313"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_7075f620",
+    "category": "multi_hop_comparative",
+    "question": "What specific type of numerical representations are created and stored in a database to power the sales-oriented question answering system that saves account managers from sifting through 100-page datasheets?",
+    "answer": "Vector embeddings.",
+    "gold_block_ids": [
+      "2402.03367_p002_b0020",
+      "2402.03367_p004_b0052"
+    ],
+    "paper_ids": [
+      "2402.03367"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_b8c036b5",
+    "category": "multi_hop_comparative",
+    "question": "Suppose a user submits a multi-hop query asking an LLM to compare the average token counts of the category with 211 entries and the category with 114 entries. If the LLM is only provided with a knowledge base containing texts from the 'technology' and 'health' categories, which of the four query types described in the text does this scenario represent?",
+    "answer": "It represents a Null query. According to the data, the categories with 211 and 114 entries are 'sports' and 'entertainment', respectively. Because the provided knowledge base only contains 'technology' and 'health', the required information cannot be derived from the available text, which fits the exact definition of a Null query.",
+    "gold_block_ids": [
+      "2401.15391_p002_b0020",
+      "2401.15391_p005_b0053"
+    ],
+    "paper_ids": [
+      "2401.15391"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_e9d799b7",
+    "category": "multi_hop_comparative",
+    "question": "What was the inter-annotator agreement percentage for the specific quality dimension where ChatGPT was used to generate candidate answers of lower quality?",
+    "answer": "Around 90%. The text indicates that ChatGPT was used to obtain candidate answers with lower \"answer relevance\" (Block A), and the two annotators agreed in around 90% of the cases for this specific dimension (Block B).",
+    "gold_block_ids": [
+      "2309.15217_p004_b0065",
+      "2309.15217_p004_b0062"
+    ],
+    "paper_ids": [
+      "2309.15217"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_39c79819",
+    "category": "multi_hop_comparative",
+    "question": "What specific scenario is improved for RALMs by the method that, when added to the Retrieve-Read approach, increases the first reported metric from 67.21 to 70.00?",
+    "answer": "The method (CHAIN-OF-NOTE, referred to as CON) improves RALMs in scenarios where more noisy documents are fetched in the first retrieval stage.",
+    "gold_block_ids": [
+      "2311.09210_p007_b0115",
+      "2311.09210_p006_b0104"
+    ],
+    "paper_ids": [
+      "2311.09210"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_6d8f3667",
+    "category": "multi_hop_comparative",
+    "question": "According to the text, at what retrieval granularity does de Jong et al.'s fine-grained knowledge base operate, and what principle should guide incorporating retrieved information at this granularity to avoid the doubled hallucination rate Thakur et al. observed?",
+    "answer": "De Jong et al.'s system retrieves at the mention level (rather than the entity level). To avoid the doubled hallucination rate Thakur et al. observed on non-relevant retrieved passages, these retrieved mentions should be selectively incorporated only when relevant/necessary, rather than indiscriminately.",
+    "gold_block_ids": [
+      "2405.06211_p009_b0281",
+      "2405.06211_p005_b0232"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": "Original question/answer were ambiguous about whether 'mentions' meant the retrieval unit or the thing to exclude; reworded for clarity using full untruncated block content."
+  },
+  {
+    "qa_id": "qa_93b807fd",
+    "category": "multi_hop_comparative",
+    "question": "The method involving query generation blending is described as tackling two distinct problems. According to the text, which of these two problems is directly associated with the specific feature that distinguishes generators in RAG from general models?",
+    "answer": "Noisy retrieved knowledge problems (because Block A establishes that generators in RAG distinguish themselves by incorporating retrieved data/knowledge).",
+    "gold_block_ids": [
+      "2405.06211_p007_b0267",
+      "2405.06211_p006_b0240"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_8b26ae26",
+    "category": "multi_hop_comparative",
+    "question": "According to the text, what is the key conceptual difference between how retrieved knowledge is integrated in the dialog system approach illustrated in Figure 1, as opposed to a 'post-hoc' augmentation approach?",
+    "answer": "The approach in Figure 1 integrates retrieved knowledge directly 'into the process of generation,' whereas a post-hoc approach (output-layer integration) 'joints retrieval and generation results' together.",
+    "gold_block_ids": [
+      "2405.06211_p008_b0276",
+      "2405.06211_p002_b0051"
+    ],
+    "paper_ids": [
+      "2405.06211"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_dd440f13",
+    "category": "multi_hop_comparative",
+    "question": "When a local cluster's combined context exceeds the token threshold, the authors' algorithm applies clustering in a specific manner to ensure the context remains within the limit. According to the provided table, what are the four performance scores of the baseline model whose name explicitly states that it performs summarization in this same manner?",
+    "answer": "According to the first block, the algorithm applies clustering \"recursively\" when the token threshold is exceeded. The baseline model in the table that performs summarization in this same manner is \"Recursively Summarizing Books (Wu et al., 2021)\". Its four scores are 21.6, 22.3, 4.2, and 10.6.",
+    "gold_block_ids": [
+      "2401.18059_p004_b0075",
+      "2401.18059_p009_b0144"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_928bd1fe",
+    "category": "multi_hop_comparative",
+    "question": "In the RAPTOR experiments, what specific type of task is assigned to the language model that, when paired with RAPTOR, sets a new state-of-the-art accuracy of 82.6% on the QuALITY dataset?",
+    "answer": "QA (Question Answering) tasks. Block A states that RAPTOR paired with GPT-4 achieves the 82.6% accuracy on the QuALITY dataset, and Block B explains that GPT-4 is utilized specifically for QA tasks in the RAPTOR experiments.",
+    "gold_block_ids": [
+      "2401.18059_p008_b0136",
+      "2401.18059_p010_b0159"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_7ccc10aa",
+    "category": "multi_hop_comparative",
+    "question": "What method is used to embed all nodes within the structure that enables the system to handle questions ranging from higher-order thematic queries to detail-oriented questions?",
+    "answer": "SBERT",
+    "gold_block_ids": [
+      "2401.18059_p009_b0153",
+      "2401.18059_p004_b0081"
+    ],
+    "paper_ids": [
+      "2401.18059"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_98ab74d6",
+    "category": "multi_hop_comparative",
+    "question": "According to the text, do either the dense bottleneck embedding approach or the ADAQR method rely on the intrinsic properties of the text (such as specific factual content or linguistic properties) to determine relevance or quality?",
+    "answer": "No, neither method relies on them. The dense bottleneck approach actively discards specific factual content in order to preserve semantic relevance, while ADAQR measures disambiguation quality based on retrieval effectiveness rather than intrinsic linguistic properties.",
+    "gold_block_ids": [
+      "2412.17558_p010_b0194",
+      "2412.17558_p020_b0329"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_ad6402ca",
+    "category": "multi_hop_comparative",
+    "question": "Based on the provided text, what specific capabilities are equipped through training by the 2024 method that is categorized as using 'Learned rewriting' and 'Retrieval'?",
+    "answer": "The method, identified as RQ-RAG, equips models with capabilities for explicit rewriting, decomposition, and disambiguation.",
+    "gold_block_ids": [
+      "2412.17558_p020_b0333",
+      "2412.17558_p022_b0353"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_ef96090d",
+    "category": "multi_hop_comparative",
+    "question": "According to the text, does addressing the fundamental challenge of vocabulary mismatch provide the global knowledge compression recommended for queries with entirely implicit information needs?",
+    "answer": "No. Addressing vocabulary mismatch is the function of query expansion techniques (which enrich the original query with additional terms or context), whereas providing global knowledge compression for entirely implicit information needs is the specific role of memory-based abstractions (such as MemoRAG).",
+    "gold_block_ids": [
+      "2412.17558_p025_b0399",
+      "2412.17558_p009_b0182"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_a4f63f03",
+    "category": "multi_hop_comparative",
+    "question": "Which of the four overarching patterns pointing toward the future of query optimization incorporates the name of the broad category that encompasses methods such as HyDE, FLARE, and KnowledGPT?",
+    "answer": "Multi-modal expansion. (Block B shows that HyDE, FLARE, and KnowledGPT all fall under the broad category of \"Expansion\", and Block A lists \"multi-modal expansion\" as one of the four overarching patterns.)",
+    "gold_block_ids": [
+      "2412.17558_p034_b0570",
+      "2412.17558_p008_b0164"
+    ],
+    "paper_ids": [
+      "2412.17558"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_b5409761",
+    "category": "multi_hop_comparative",
+    "question": "How does the strategy of generating silver data from predicted outcomes conceptually connect to the process of pre-determining query complexity?",
+    "answer": "Generating silver data is used to train a classifier that plays a key role in \"adaptive retrieval,\" while pre-determining query complexity is the specific mechanism used to actually perform this adaptation for retrieval-augmented LLMs.",
+    "gold_block_ids": [
+      "2403.14403_p008_b0186",
+      "2403.14403_p004_b0075"
+    ],
+    "paper_ids": [
+      "2403.14403"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_f97ff7d3",
+    "category": "multi_hop_comparative",
+    "question": "Although the classifier is generally effective at categorizing its three labels, what two specific sources of inaccuracy do the authors plan to address in future work?",
+    "answer": "The authors plan to address errors stemming from the automatic assignment of classifier labels (by exploring more advanced assignment strategies) and specific misclassifications made by the classifier, such as the ~22% error rate in the 'Multi' category (by further refining the model based on these errors).",
+    "gold_block_ids": [
+      "2403.14403_p005_b0104",
+      "2403.14403_p008_b0184"
+    ],
+    "paper_ids": [
+      "2403.14403"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_bda94134",
+    "category": "multi_hop_comparative",
+    "question": "What metric is used alongside accuracy to evaluate the performance of models on the task where they must select the right answer from exactly two options (one correct, and one wrong answer generated by editing answer texts)?",
+    "answer": "Misleading Rate (M-Rate).",
+    "gold_block_ids": [
+      "2311.08147_p004_b0120",
+      "2311.08147_p005_b0140"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_df71dfce",
+    "category": "multi_hop_comparative",
+    "question": "According to the case study, the prompt method causes a drop in performance for a particular task. Based on the listed metrics for each task, what specific evaluation metric would reflect this drop?",
+    "answer": "Accuracy (ACC). The case study notes that the prompt method causes a performance drop in the QA-NA task, and the metric listing shows that QA-NA is evaluated using ACC.",
+    "gold_block_ids": [
+      "2311.08147_p008_b0262",
+      "2311.08147_p005_b0127"
+    ],
+    "paper_ids": [
+      "2311.08147"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": "Original gold block (p008_b0391) was a garbled two-column table extraction; re-pointed to the clean duplicate text block (p008_b0262) containing the same Case Study content, verified against full page context."
+  },
+  {
+    "qa_id": "qa_c0d31d26",
+    "category": "multi_hop_comparative",
+    "question": "What action is performed using the specific components whose quantities can be increased to solve the \"missing part\"?",
+    "answer": "The components (the query and retrieved documents) are sent together to a large language model to generate and output a response.",
+    "gold_block_ids": [
+      "2402.03367_p004_b0041",
+      "2402.03367_p002_b0023"
+    ],
+    "paper_ids": [
+      "2402.03367"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_55208b02",
+    "category": "multi_hop_comparative",
+    "question": "In order for the algorithm to understand the actual power optimization capabilities of the IFX waterproof MIC, what specific text from the provided excerpt must be converted into vector embeddings?",
+    "answer": "The forum solution (which states that the microphone does not come with sleep mode, but rather comes with a low power mode).",
+    "gold_block_ids": [
+      "2402.03367_p007_b0083",
+      "2402.03367_p002_b0020"
+    ],
+    "paper_ids": [
+      "2402.03367"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_76e97240",
+    "category": "multi_hop_comparative",
+    "question": "According to the text, what specific details about the IM73A135V01 align with the type of product-specific information that inside sales representatives typically need to find quickly?",
+    "answer": "Inside sales representatives typically need to quickly find information about applications and product validation. For the IM73A135V01, this aligns with the details about its industry applications, specifically its use in TWS earbuds, compact audio devices, consumer electronics, automotive, industrial, and smart devices.",
+    "gold_block_ids": [
+      "2402.03367_p004_b0053",
+      "2402.03367_p005_b0057"
+    ],
+    "paper_ids": [
+      "2402.03367"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_6e64b551",
+    "category": "multi_hop_comparative",
+    "question": "In the context of integrating language models with retrieval systems, how does the specific aspect of the system that is 'decoupled' in the RA-DIT framework differ from what is explicitly decoupled in standard RALM architectures?",
+    "answer": "Standard RALM architectures explicitly decouple the act of knowledge retrieval from the backbone language model, whereas the RA-DIT framework specifically decouples the fine-tuning processes of the language model and the retriever.",
+    "gold_block_ids": [
+      "2310.01352_p009_b0150",
+      "2310.01352_p001_b0008"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  },
+  {
+    "qa_id": "qa_4b223322",
+    "category": "multi_hop_comparative",
+    "question": "When language model predictions from multiple augmented prompts are computed in parallel, which type of fine-tuning data yields the strongest overall performance for the system component that provides the weights used to mix those predictions?",
+    "answer": "Corpus data. Block A establishes that the parallel predictions are mixed using weights based on the \"chunk relevance score\" (which is produced by the retriever). Block B explains that for retriever fine-tuning, using corpus data generalizes better and leads to stronger overall performance compared to multi-task instruction (MTI) data.",
+    "gold_block_ids": [
+      "2310.01352_p003_b0027",
+      "2310.01352_p007_b0124"
+    ],
+    "paper_ids": [
+      "2310.01352"
+    ],
+    "cross_paper": false,
+    "manual_transcription_flag": false,
+    "verified": true,
+    "notes": ""
+  }
+]
