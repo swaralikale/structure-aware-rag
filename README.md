@@ -24,7 +24,7 @@ Does preserving document structure (tables, figures, captions as atomic units) d
 
 ## Corpus
 ~30 RAG research papers, weighted toward table-heavy benchmark/survey/comparison papers (e.g., RGB, CRUD-RAG, RAGBench, MultiHop-RAG), with a few architecture papers included as text-heavy controls.
-Papers and parsed output are stored in Google Drive (`/content/drive/MyDrive/RAG/`) rather than this repo, due to size and copyright. See [Corpus notes](../docs/corpus_notes.md) for known corpus gaps and hard detection ceilings.
+Papers and parsed output are stored in Google Drive (`/content/drive/MyDrive/RAG/`) rather than this repo, due to size and copyright. See [Corpus notes](/docs/corpus_notes.md) for known corpus gaps and hard detection ceilings.
 
 
 ## Project Structure
@@ -98,7 +98,7 @@ You'll need a Gemini API key (billing enabled) set as an environment variable fo
 
 
 ## Results
-The [Results](../results) folder contains the evaluation outputs comparing structure-aware vs. fixed-size chunking, at the per-QA-pair level. See [Methodology](../docs/methodology.md) for how these numbers were produced, and [QA schema](../benchmark/qa_schema.md) for the underlying QA pair schema.
+The [Results](/results) folder contains the evaluation outputs comparing structure-aware vs. fixed-size chunking, at the per-QA-pair level. See [Methodology](/docs/methodology.md) for how these numbers were produced, and [QA schema](/benchmark/qa_schema.md) for the underlying QA pair schema.
 
 ### Answer Quality 
 `judged_scores_summary.csv`
@@ -136,13 +136,13 @@ Per-QA-pair retrieval metrics against gold block IDs, under each chunking strate
 
 ### Headline Results
 - **Structure-aware chunking outperforms fixed-size on every retrieval metric (Recall@10: 0.883 vs. 0.608; MRR: 0.683 vs. 0.346)**, both statistically significant, with the largest gap in `table_lookup`.
-- Answer quality follows the same pattern, except `faithfulness` and `multi_hop_comparative` do not show a statistically significant difference between strategies — traced to a **joint top-5 coverage gap** rather than a chunking-strategy weakness (see [Methodology](../docs/methodology.md)).
+- Answer quality follows the same pattern, except `faithfulness` and `multi_hop_comparative` do not show a statistically significant difference between strategies — traced to a **joint top-5 coverage gap** rather than a chunking-strategy weakness (see [Methodology](/docs/methodology.md)).
 
 Both CSVs are joinable on `qa_id` for combined retrieval + answer-quality analysis (e.g., checking whether `manual_transcription-flagged` pairs behave differently).
 
 
 ## Known Limitations
-See [Corpus notes](../docs/corpus_notes.md) for details on:
+See [Corpus notes](/docs/corpus_notes.md) for details on:
 - RAPTOR appendix tables excluded from QA generation (no detected captions)
 - Six papers with hand-transcribed tables (flagged separately)
 - Camelot's inability to reliably isolate borderless/side-by-side tables in dense two-column IEEE layouts
