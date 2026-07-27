@@ -50,7 +50,8 @@ Six papers have one or more hand-transcribed tables (`manual_transcription_flag`
 One paper (RAPTOR) has appendix tables permanently excluded from QA generation — see `docs/corpus_notes.md`.
 
 ## Extending the Corpus
-The parsing pipeline (`src/parsing/parse_papers.py`) is designed to generalize beyond this specific set of 30 papers — it is not hardcoded to them. In principle, other RAG papers, or papers from adjacent domains, can be dropped in and parsed the same way.
+The parsing pipeline (`scripts/parsing/parse_papers.py`) is designed to generalize beyond this specific set of 30 papers — it is not hardcoded to them. In principle, other RAG papers, or papers from adjacent domains, can be dropped in and parsed the same way.
+
 That said, a few assumptions baked into this project are worth flagging if you extend the corpus:
 + **Layout assumption:** Camelot-based table extraction was tuned against dense two-column IEEE-style layouts. Papers with substantially different layouts (single-column, non-IEEE templates, HTML-native papers) may need re-tuning or produce more extraction gaps.
 + **Section labeling:** The `section` field in parsed output is unreliable corpus-wide (most blocks land under "Front Matter"); content-keyword matching is used instead. this heuristic was tuned against this corpus' papers and may need adjustment for very different writing styles/structures.
